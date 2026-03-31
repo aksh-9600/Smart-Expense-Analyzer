@@ -65,7 +65,25 @@ Provides analysis of spending behavior to help users improve financial habits an
 ### 🤖 Savi Chatbot
 
 ![Chatbot](images/chatbot.png)
-AI-powered assistant that offers emotional and financial guidance to support better decision-making.
+AI-powered assistant that offers emotional and financial guidance to support better decision-making.]
+
+---
+
+### Goals
+
+![Goals](images/goals.png)
+
+---
+
+### Gamification
+
+![Gamification](images/gamification.png)
+
+---
+
+### Dynamic Limits
+
+![Dynamic Limits](images/dynamiclimits.png)
 
 ---
 
