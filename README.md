@@ -41,49 +41,28 @@ This project was developed using AI-assisted tools (Antigravity & Emergent), com
 
 ## 📸 Screenshots
 
-### 📊 Dashboard View
+<h3>📊 Dashboard & 💳 Transactions</h3>
+<p align="center">
+  <img src="images/dashboards.png" width="45%"/>
+  <img src="images/transactions.png" width="45%"/>
+</p>
 
-![Dashboard](images/dashboard.png)
-Displays overall financial summary including balance, income, and expense tracking.
+<h3>📈 Insights & 🤖 Savi Chatbot</h3>
+<p align="center">
+  <img src="images/insights.png" width="45%"/>
+  <img src="images/chatbot.png" width="45%"/>
+</p>
 
----
+<h3>🎯 Goals & 🏆 Gamification</h3>
+<p align="center">
+  <img src="images/goals.png" width="45%"/>
+  <img src="images/gamification.png" width="45%"/>
+</p>
 
-### 💳 Transactions
-
-![Transactions](images/transactions.png)
-Shows categorized transactions for better financial tracking and monitoring.
-
----
-
-### 📈 Insights
-
-![Insights](images/insights.png)
-Provides analysis of spending behavior to help users improve financial habits and avoid overspending.
-
----
-
-### 🤖 Savi Chatbot
-
-![Chatbot](images/chatbot.png)
-AI-powered assistant that offers emotional and financial guidance to support better decision-making.]
-
----
-
-### Goals
-
-![Goals](images/goals.png)
-
----
-
-### Gamification
-
-![Gamification](images/gamification.png)
-
----
-
-### Dynamic Limits
-
-![Dynamic Limits](images/dynamiclimits.png)
+<h3>⚙️ Dynamic Limits</h3>
+<p align="center">
+  <img src="images/dynamiclimits.png" width="50%"/>
+</p>
 
 ---
 
