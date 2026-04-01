@@ -65,7 +65,7 @@ I also focused on keeping components reusable and the structure clean so it’s 
 Overview of balance, expenses, and activity  
 
 <p align="center">
-  <img src="./Images/dashboards.png" width="800"/>
+  <img src="./images/dashboards.png" width="800"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ Overview of balance, expenses, and activity
 Track and manage daily expenses  
 
 <p align="center">
-  <img src="./Images/transactions.png" width="800"/>
+  <img src="./images/transactions.png" width="800"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ Track and manage daily expenses
 Set savings goals and control spending  
 
 <p align="center">
-  <img src="./Images/goals.png" width="800"/>
+  <img src="./images/goals.png" width="800"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ Set savings goals and control spending
 Provides financial guidance and motivation  
 
 <p align="center">
-  <img src="./Images/chatbot.png" width="400"/>
+  <img src="./images/chatbot.png" width="400"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ Provides financial guidance and motivation
 Visual representation of spending patterns  
 
 <p align="center">
-  <img src="./Images/analytics.png" width="800"/>
+  <img src="./images/analytics.png" width="800"/>
 </p>
 
 ---
