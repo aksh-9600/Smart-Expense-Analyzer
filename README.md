@@ -94,7 +94,7 @@ I also focused on keeping components reusable and the structure clean so it’s 
 
 ### 🤖 Chatbot (Savi)
 <p align="center">
-  <img src="./images/chatbot.png" width="48%" />
+  <img src="./images/chatbot.png" width="35%" />
 </p>
 ---
 
