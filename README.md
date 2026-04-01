@@ -11,7 +11,7 @@
 
 ## 📸 Preview
 
-![Dashboard](./images/dashboard.png)
+![Dashboard](./Images/dashboard.png)
 
 ---
 
