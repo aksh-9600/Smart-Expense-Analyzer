@@ -47,21 +47,21 @@ This project was developed using AI-assisted tools (Antigravity & Emergent), com
   <img src="images/transactions.png" width="45%"/>
 </p>
 
-<h3>📈 Insights & 🤖 Savi Chatbot</h3>
+<h3>📈 Insights & 🏆 Gamification</h3>
 <p align="center">
   <img src="images/insights.png" width="45%"/>
-  <img src="images/chatbot.png" width="45%"/>
-</p>
-
-<h3>🎯 Goals & 🏆 Gamification</h3>
-<p align="center">
-  <img src="images/goals.png" width="45%"/>
   <img src="images/gamification.png" width="45%"/>
 </p>
 
-<h3>⚙️ Dynamic Limits</h3>
+<h3>🎯 Goals & ⚙️ Dynamic Limits </h3>
 <p align="center">
-  <img src="images/dynamiclimits.png" width="50%"/>
+  <img src="images/goals.png" width="45%"/>
+  <img src="images/dynamiclimits.png" width="45%"/>
+</p>
+
+<h3>🤖 Savi Chatbot</h3>
+<p align="center">
+  <img src="images/chatbot.png" width="50%"/>
 </p>
 
 ---
