@@ -10,6 +10,7 @@
 ---
 
 ## 📸 Preview
+##📊 Dashboard
 
 <p align="center">
   <img src="./images/dashboard.png" width="42%" />
@@ -70,9 +71,8 @@ I also focused on keeping components reusable and the structure clean so it’s 
 
 ## 📸 Screenshots
 
-### 📊 Dashboard & 💳 Transactions
+###  💳 Transactions
 <p align="center">
-  <img src="./images/dashboard.png" width="42%" />
   <img src="./images/transactions.png" width="42%" />
 </p>
 
