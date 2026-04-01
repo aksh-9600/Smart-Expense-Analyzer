@@ -59,37 +59,51 @@ I also focused on keeping components reusable and the structure clean so it’s 
 * Balancing UI design with clarity and usability
 
 ---
-
 ## 📸 Screenshots
 
-### 📊 Dashboard & 💳 Transactions
+### 📊 Dashboard  
+Overview of balance, expenses, and activity  
+
 <p align="center">
-  <img src="./images/dashboard.png" width="42%" />
-  <img src="./images/transactions.png" width="42%" />
+  <img src="./Images/dashboards.png" width="800"/>
 </p>
 
-<br/>
+---
 
-### 📈 Insights & 🏆 Gamification
+### 💸 Transactions  
+Track and manage daily expenses  
+
 <p align="center">
-  <img src="./images/insights.png" width="42%" />
-  <img src="./images/gamification.png" width="42%" />
+  <img src="./Images/transactions.png" width="800"/>
 </p>
 
-<br/>
+---
 
-### 🎯 Goals & ⚙️ Dynamic Limits
+### 🎯 Goals & Dynamic Limits  
+Set savings goals and control spending  
+
 <p align="center">
-  <img src="./images/goals.png" width="42%" />
-  <img src="./images/limits.png" width="42%" />
+  <img src="./Images/goals.png" width="800"/>
 </p>
 
-<br/>
+---
 
-### 🤖 Chatbot (Savi)
+### 🤖 AI Chatbot (Savi)  
+Provides financial guidance and motivation  
+
 <p align="center">
-  <img src="./images/chatbot.png" width="25%" />
+  <img src="./Images/chatbot.png" width="400"/>
 </p>
+
+---
+
+### 📈 Analytics & Insights  
+Visual representation of spending patterns  
+
+<p align="center">
+  <img src="./Images/analytics.png" width="800"/>
+</p>
+
 ---
 
 ## 🤖 About Savi (Chatbot)
