@@ -1,88 +1,131 @@
 # 💰 Smart Expense Analyzer
 
-## 📌 Overview
 
-Smart Expense Analyzer is an intelligent financial management application designed to help users track expenses, analyze spending patterns, and improve savings through data-driven insights.
+## 💡 What makes this different?
 
-Unlike traditional expense trackers, this application integrates an AI-powered chatbot (Savi) that provides both financial guidance and emotional support, helping users manage stress related to spending and savings.
+* 🤖 A chatbot (**Savi**) that doesn’t just give financial tips, but also helps you stay calm and consistent
+* 🎯 Goal tracking with a bit of gamification to keep things motivating
+* 📊 Insights that actually make sense, not just numbers on a screen
 
-This project was developed using AI-assisted tools (Antigravity & Emergent), combining product thinking with modern web technologies to build a real-world application.
+---
+
+## 📸 Preview
+
+![Dashboard](./images/dashboard.png)
+
+---
+
+## 📌 About the Project
+
+Smart Expense Analyzer is a personal finance app that helps users track their spending, understand patterns, and improve their savings habits.
+
+Most expense trackers just show data — but I wanted to go a step further. This app focuses on helping users **change their financial behavior**, not just monitor it.
+
+💡 **Why I built this:**
+I noticed that many students (including myself at times) struggle to stay consistent with managing expenses. Existing apps felt too mechanical. So I tried building something that feels a bit more supportive and practical.
 
 ---
 
 ## 🚀 Features
 
-* 📊 Interactive dashboard showing balance, income, expenses, and streak tracking
-* 💳 Expense and transaction tracking system
-* 📈 Data-driven insights for better financial decision-making
-* 🎯 Goal tracking and gamification elements
-* 🤖 AI chatbot (Savi) for emotional and financial support
-* 📅 Monthly history analysis with personalized feedback
+* 📊 Dashboard with balance, income, expenses, and streak tracking
+* 💳 Easy expense and transaction tracking
+* 📈 Simple insights to understand spending habits
+* 🎯 Goal setting with a gamified touch
+* 🤖 AI chatbot (Savi) for guidance and motivation
+* 📅 Monthly summaries with personalized feedback
 
 ---
 
-## 🧠 Key Highlights
+## 🧠 What stands out
 
-* Designed a user-centric financial assistant focusing on both financial management and emotional well-being
-* Integrated an AI chatbot to support users dealing with financial stress and decision-making challenges
-* Demonstrates modern AI-assisted development workflow using real-world tools
-* Structured using a scalable, component-based architecture for maintainability
+* Focuses on both **money management and user mindset**
+* Includes a chatbot to make the experience more interactive
+* Built with a clean and scalable structure
+* Combines practical features with a slightly more human approach
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ How it’s built
 
-* Next.js
-* React
-* TypeScript
-* Tailwind CSS
+* Next.js (App Router) for structure and routing
+* React for building UI components
+* TypeScript for better code reliability
+* Tailwind CSS for styling
+
+I also focused on keeping components reusable and the structure clean so it’s easier to scale later.
+
+---
+
+## 🚧 Challenges I faced
+
+* Figuring out how to show insights that are actually useful (not just graphs)
+* Making the chatbot feel helpful instead of robotic
+* Organizing the project in a scalable way
+* Balancing UI design with clarity and usability
 
 ---
 
 ## 📸 Screenshots
 
-<h3>📊 Dashboard & 💳 Transactions</h3>
-<p align="center">
-  <img src="images/dashboards.png" width="45%"/>
-  <img src="images/transactions.png" width="45%"/>
-</p>
+### 📊 Dashboard & 💳 Transactions
 
-<h3>📈 Insights & 🏆 Gamification</h3>
-<p align="center">
-  <img src="images/insights.png" width="45%"/>
-  <img src="images/gamification.png" width="45%"/>
-</p>
+![Dashboard](./images/dashboard.png)
+![Transactions](./images/transactions.png)
 
-<h3>🎯 Goals & ⚙️ Dynamic Limits </h3>
-<p align="center">
-  <img src="images/goals.png" width="45%"/>
-  <img src="images/dynamiclimits.png" width="45%"/>
-</p>
+### 📈 Insights & 🏆 Gamification
 
-<h3>🤖 Savi Chatbot</h3>
-<p align="center">
-  <img src="images/chatbot.png" width="50%"/>
-</p>
+![Insights](./images/insights.png)
+![Gamification](./images/gamification.png)
+
+### 🎯 Goals & ⚙️ Dynamic Limits
+
+![Goals](./images/goals.png)
+![Limits](./images/limits.png)
+
+### 🤖 Chatbot (Savi)
+
+![Chatbot](./images/chatbot.png)
+
+---
+
+## 🤖 About Savi (Chatbot)
+
+Savi is designed to act like a small “support system” inside the app.
+
+* 💬 Gives financial suggestions
+* 🧠 Helps users stay calm about money-related stress
+* 📊 Encourages better spending habits
+* 🤝 Acts like a savings companion
 
 ---
 
 ## 🎯 Impact
 
-* Helps users understand and control their spending habits
-* Encourages better financial discipline through insights and feedback
-* Provides emotional support alongside financial guidance, making it a holistic solution
+* Makes it easier to understand where money is going
+* Encourages better habits over time
+* Adds a bit of emotional support to financial decision-making
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 What I’d improve next
 
-* Real-time in-app alerts for spending behavior
-* Enhanced chatbot intelligence
-* Advanced financial prediction features
+* Real-time alerts for spending patterns
+* Smarter and more personalized chatbot responses
+* Better prediction features for future expenses
 
 ---
 
-## 👤 Author
+## 📌 Resume-ready points
 
-Akshara P P
-Data Analyst Enthusiast|Interested in AI-driven applications
+* Built a full-stack expense tracking app using Next.js and TypeScript
+* Created interactive dashboards for financial insights
+* Designed a chatbot feature for user engagement
+* Focused on clean architecture and reusable components
+
+---
+
+## 👩‍💻 Author
+
+**Akshara P P**
+Interested in data analytics and AI-driven applications
