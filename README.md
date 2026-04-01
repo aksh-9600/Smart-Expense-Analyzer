@@ -11,7 +11,9 @@
 
 ## 📸 Preview
 
-![Dashboard](./Images/dashboard.png)
+<p align="center">
+  <img src="./images/dashboard.png" width="42%" />
+</p>
 
 ---
 
