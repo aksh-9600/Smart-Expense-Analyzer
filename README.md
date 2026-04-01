@@ -50,15 +50,6 @@ I noticed that many students (including myself at times) struggle to stay consis
 I also focused on keeping components reusable and the structure clean so it’s easier to scale later.
 
 ---
-
-## 🚧 Challenges I faced
-
-* Figuring out how to show insights that are actually useful (not just graphs)
-* Making the chatbot feel helpful instead of robotic
-* Organizing the project in a scalable way
-* Balancing UI design with clarity and usability
-
----
 ## 📸 Screenshots
 
 ### 📊 Dashboard  
@@ -114,6 +105,14 @@ Savi is designed to act like a small “support system” inside the app.
 * 🧠 Helps users stay calm about money-related stress
 * 📊 Encourages better spending habits
 * 🤝 Acts like a savings companion
+
+---
+## 🚧 Challenges I faced
+
+* Figuring out how to show insights that are actually useful (not just graphs)
+* Making the chatbot feel helpful instead of robotic
+* Organizing the project in a scalable way
+* Balancing UI design with clarity and usability
 
 ---
 
