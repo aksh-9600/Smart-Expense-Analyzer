@@ -9,15 +9,6 @@
 
 ---
 
-## 📸 Preview
-##📊 Dashboard
-
-<p align="center">
-  <img src="./images/dashboard.png" width="42%" />
-</p>
-
----
-
 ## 📌 About the Project
 
 Smart Expense Analyzer is a personal finance app that helps users track their spending, understand patterns, and improve their savings habits.
@@ -71,8 +62,9 @@ I also focused on keeping components reusable and the structure clean so it’s 
 
 ## 📸 Screenshots
 
-###  💳 Transactions
+### 📊 Dashboard & 💳 Transactions
 <p align="center">
+  <img src="./images/dashboard.png" width="42%" />
   <img src="./images/transactions.png" width="42%" />
 </p>
 
