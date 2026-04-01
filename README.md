@@ -69,24 +69,33 @@ I also focused on keeping components reusable and the structure clean so it’s 
 ## 📸 Screenshots
 
 ### 📊 Dashboard & 💳 Transactions
+<p align="center">
+  <img src="./images/dashboard.png" width="42%" />
+  <img src="./images/transactions.png" width="42%" />
+</p>
 
-![Dashboard](./images/dashboard.png)
-![Transactions](./images/transactions.png)
+<br/>
 
 ### 📈 Insights & 🏆 Gamification
+<p align="center">
+  <img src="./images/insights.png" width="42%" />
+  <img src="./images/gamification.png" width="42%" />
+</p>
 
-![Insights](./images/insights.png)
-![Gamification](./images/gamification.png)
+<br/>
 
 ### 🎯 Goals & ⚙️ Dynamic Limits
+<p align="center">
+  <img src="./images/goals.png" width="42%" />
+  <img src="./images/limits.png" width="42%" />
+</p>
 
-![Goals](./images/goals.png)
-![Limits](./images/limits.png)
+<br/>
 
 ### 🤖 Chatbot (Savi)
-
-![Chatbot](./images/chatbot.png)
-
+<p align="center">
+  <img src="./images/chatbot.png" width="48%" />
+</p>
 ---
 
 ## 🤖 About Savi (Chatbot)
