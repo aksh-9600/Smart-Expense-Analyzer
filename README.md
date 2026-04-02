@@ -8,6 +8,13 @@
 * 📊 Insights that actually make sense, not just numbers on a screen
 
 ---
+### 📊 Dashboard  
+Overview of balance, expenses, and activity  
+
+<p align="center">
+  <img src="./images/dashboards.png" width="800"/>
+</p>
+---
 
 ## 📌 About the Project
 
@@ -52,12 +59,6 @@ I also focused on keeping components reusable and the structure clean so it’s 
 ---
 ## 📸 Screenshots
 
-### 📊 Dashboard  
-Overview of balance, expenses, and activity  
-
-<p align="center">
-  <img src="./images/dashboards.png" width="800"/>
-</p>
 
 ---
 
