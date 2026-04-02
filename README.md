@@ -144,4 +144,5 @@ Savi is designed to act like a small “support system” inside the app.
 ## 👩‍💻 Author
 
 <br>**Akshara P P**</br>
+<br> CSE student </br>
 Interested in data analytics and AI-driven applications
