@@ -22,7 +22,7 @@
 Overview of balance, expenses, and activity  
 
 <p align="center">
-  <img src="./images/dashboards.png" width="700"/>
+  <img src="./images/dashboards.png" width="600"/>
 </p>
 ---
 
@@ -65,7 +65,7 @@ I noticed that many students (including myself at times) struggle to stay consis
 Track and manage daily expenses  
 
 <p align="center">
-  <img src="./images/transactions.png" width="700"/>
+  <img src="./images/transactions.png" width="600"/>
 </p>
 
 ---
@@ -74,7 +74,7 @@ Track and manage daily expenses
 Set savings goals and control spending  
 
 <p align="center">
-  <img src="./images/goals.png" width="700"/>
+  <img src="./images/goals.png" width="600"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ Set savings goals and control spending
 Provides financial guidance and motivation  
 
 <p align="center">
-  <img src="./images/chatbot.png" width="400"/>
+  <img src="./images/chatbot.png" width="300"/>
 </p>
 
 ---
@@ -92,7 +92,7 @@ Provides financial guidance and motivation
 Visual representation of spending patterns  
 
 <p align="center">
-  <img src="./images/analytics.png" width="700"/>
+  <img src="./images/analytics.png" width="600"/>
 </p>
 
 ---
