@@ -8,6 +8,7 @@
 * 📊 Insights that actually make sense, not just numbers on a screen
 
 ---
+### Preview
 ### 📊 Dashboard  
 Overview of balance, expenses, and activity  
 
@@ -57,10 +58,8 @@ I noticed that many students (including myself at times) struggle to stay consis
 I also focused on keeping components reusable and the structure clean so it’s easier to scale later.
 
 ---
-## 📸 Screenshots
+## 📸 Feature Showcase
 
-
----
 
 ### 💸 Transactions  
 Track and manage daily expenses  
@@ -144,5 +143,5 @@ Savi is designed to act like a small “support system” inside the app.
 
 ## 👩‍💻 Author
 
-**Akshara P P**
+<br>**Akshara P P**</br>
 Interested in data analytics and AI-driven applications
